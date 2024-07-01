@@ -10,11 +10,10 @@ This Weather App is a responsive and dynamic application that provides weather f
 - Display detailed 5-day weather forecast.
 - Toggle temperature units between Celsius and Fahrenheit.
 - Maintain and display a search history.
-- Responsive design for optimal viewing on all devices.
 
 ## Built With
 
-- **React**: A JavaScript library for building user interfaces.
+- **React**:
 - **Zustand**: A small, fast, and scalable bearbones state management solution using simplified flux principles.
 - **Axios**: A promise-based HTTP client for the browser and Node.js.
 - **TanStack Router**: A powerful, type-safe router for building applications with complex routing requirements.
